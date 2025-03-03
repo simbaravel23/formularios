@@ -6,10 +6,10 @@ import FormularioLivro from './components/livros';
 import FormularioFilme from './components/filmes';
 import FormularioPneu from './components/pneus';
 import FormularioInstrumento from './components/instrumentos';
-import FormularioComputador from './componets/computadores';
-import FormularioCasa from './componets/casas';
+import FormularioComputador from './components/computadores';
+import FormularioCasa from './components/casas';
 import FormularioApartamento from './components/apartamentos';
-import FormularioCasaOracao from './componets/casaOracao';
+import FormularioCasaOracao from './components/casaOracao';
 import FormularioHino from './components/hinos';
 import FormularioUsuario from './components/usuario';
 import FormularioCurriculo from './components/curriculo';
@@ -19,7 +19,7 @@ import FormularioProfessor from './components/professores';
 
 
 import './App.css';
-import FormularioAnimal from './components/animais';
+
 
 function App() {
   return (
